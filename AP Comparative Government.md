@@ -330,3 +330,20 @@ _this question is unanswered and causes a lot of tension in several states_
     - Theories need to be testable
     - Good theory holds up after many trials
 
+### Consensual or Conflicting Political Cultures
+- Consensual Political Culture
+    - Citizens _agree_ on appropriate means of making political decisions
+- Conflicting Political Culture
+    - The citizens are _sharply divided_
+- Political Subcultures
+    - Develop when a country is deeply divided in political attitudes over a long time
+    - Citizens in subcultures have very different points of view
+    - They affiliate with different parties
+    - Exposed to distinctiv patterns of learning about politics
+
+### Political Socialization
+- Political cultures are sustatined or changed as people acquire their attitudes and values
+- _Political Socialization_ refers to the way in which political values are formed
+- Can be either direct of indirect
+    - _Direct_ involves the explicit communicaiton of information, values of feelings toward politics
+    - _ _Indirect_ 

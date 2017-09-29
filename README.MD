@@ -330,3 +330,198 @@ _this question is unanswered and causes a lot of tension in several states_
     - Theories need to be testable
     - Good theory holds up after many trials
 
+## Democracies
+
+### Geographic Distribution of Power
+- Federal
+    - A state in which power is divided between a central authority and consituent political units
+    - _Devolved_ Powers
+- Unitary
+    - A state in which power is centrally located and is governed as a single entity
+    - Could give power and take away
+- Confederal
+    - Loose relationship among a number of smaller political units. The vast majority of political power rests with the local governments; the central federal government has very little power
+    - Smaller govt has more power
+
+### Parliamentry vs Presidential Systems
+- Parliamentary - Prime Minster is elected by legislature
+- Presidential - President is elected by people
+
+### Proportional Representaion
+- Percent of votes is percent of seats in the legislature (above a threshold)
+
+### Electoral Rules (Parlaimentary)
+- Single-member district, simple plurality ("first past the post")
+- Electroal rules guarantee that one party will capture a majority of seats with a plurality of the vote
+
+## Political Socialization
+
+### Cultural / Political Norms
+- What are "norms"
+    - Behavior patterns that are typical of specific groups
+    - Behaviors are learned from parents, teaches, peers and others whose values, attitudes, beliefs, and behaviors take place in the context of their own organizational culture
+- How do cultural norms shape politics
+    - Either by citizenry using these norms to sustain their rights or to repress the rights of others
+        - IE: the English use their consitiutional arrangements to sustain their liberty, while the same institutions were used as instruments of repression in South Africa and Northern Ireland
+
+### Definitions
+- Political Culture: The public attitude towards politics and their rolw within a political system
+- Political Socialization: How individuals form their political attitudes / values and thus, collectively, how citizens form their political culture
+
+### Three levels of political culture
+- A nation's political culture involves 3 levels
+    - Political system (system level)
+    - Political and policymaking process (process level)
+    - Policy outputs and outcomes (policy level)
+
+### Political Socialization
+- Political cultures are sustained or changed as people acquire their attitudes and values
+- _Political socialization_ refers to the way in which political values are formed
+- Can be direct or indirect
+    - _Direct Socialization_ involves the explicit communication of information, values, or feelings toward politics
+    - _Indirect Socialization_ occors when political views are inadvertently molded by our experiences
+
+### Agents of Political Socialization
+- Institutions and organizations that influence political attitudes
+
+### Trends in contemporary political cultures
+- democratization
+- modernization
+- marketization
+- globalization
+
+<!-- ^ on quiz -->
+## Interest Groups
+
+### Interest Articulation
+- What is interest articulation?
+    - Ways for people to express their wants to the government for policy changes
+    - _Interest Groups_ are the primarty means for promoting political interests
+
+### Citizen Action
+- What might you do as an individual citizen
+- _Voting in an election_ is the most common form of activity
+- Working with others in their community
+- Direct contact with govt
+- Protests or other forms of contentious action
+- Political consumerism
+
+### Interest Groups
+- Can occor through the action of social or political groups that represent gorups of people
+- _Anomic groups_- spontaneous groups that form suddenly when many individuals resopnd similarly to frustration, disappointment, or other strong emotions
+- _Non-associational groups_- based on common interests, rarely well organized, episodic
+- _Associational Groups_- formed specifically to represent the interests of a particular group, generally verey active in representing interests of members in policy process, long lasting
+- _Institutionsl Groups_- express their own interests or represent the interests of other groups either as corporate bodies or as smaller groups within these bodies, non-adversarial, no political conflict
+
+### What is a _Civil Society_
+- Society in which people are involves in social and political interactions _free of state control or regulation_
+
+### Interest Group Systems
+- Three types of group systems all express a unique relationship between the groups and govt. policymaking institutions
+    - Pluralist
+        - Multiple groups may represent a single societal interest
+        - Group membership is voluntary and limited
+        - Often have a loose or decentralized organizational structure
+        - Clear seperation between interest groups and the govt
+    - Controlled
+        - Single gorup for each social sector
+        - Membership often compulsory
+        - Normally heirarchically organized
+        - Groups are controlled by the govt or its agents in order to mobilize support for govt policy
+    - Corporatist
+        - Single peak association normally represents each societal interest
+        - Membership in the peak association is often compulsory and nearly universal
+        - Centrally organized and direct the actions of their members
+        - Involved in making and implimenting policy
+        - Tripartite decision-making often controls policymaking: labor, business, & government
+
+### Access to the influential
+- To be effective, interest groups must be able to reach key policymakers through channels of political acess.
+    - Legitimate and constitutional channels of access
+    - Illigitimate, corercive access channels
+
+### Legitimate Access Channels
+- Personal connections
+    - Face-to-face contact is one of the most effective means of shaping attitudes and conveying messages
+- Mass media
+- Political Parties
+- Legislatures
+- Government bureaucracies
+
+### Coercive Access Channels and Tactics
+- Feelings of relative deprivation motivate people to act aggressively
+    - Source of frustration, discontent and anger
+    - Greater discontend / anget yields greater probability of collective violence
+
+### Interest Group Development
+- Varied possibilities for letigimate and coercie interest articulation exist in each country
+- Successful democratic development leads to the emergence of complex interest group systems
+    - Not automatic
+    - Many problems involved
+        - Levels of trust shared among members of society
+        - Authoritarian parties may suppress groups
+
+### What is interest aggregation
+- The activitiy in which political demands of individuals and groups are combined into policy programs
+- How interests are aggregated is a key feature of the political process
+    - In a democratic system, two or more parties compete for support for their alternitave policy programs
+    - Authoritarian - try to get support for their their policies
+        - Covert and controlled
+- Parties mobilize support for policies and candidates especially related to interest aggregation
+
+### Parton - Client Networks
+- Structure in which a central officeholder, authority figure, or group provides benefits to supporters in exchange for their loyalty
+    - Defining principal of _feudalism_
+- Primitave structure our of which larger and more complicated political structures are composed
+
+### Institutional Interest Aggregation
+- Modern society and interest aggregation
+    - Citizens aware of larger collective interests; have resources and skills to work for them
+    - Personal networks tend to be regualted, limited and incorporated within broader organizations
+- Institutional Groups
+    - Bureaucratic agencies and military groups are inistiutional groups that can be important to interest aggregations
+
+### Party System and Interest Aggregatio
+- In many contemporary political systems, parties are the primary structures of interest aggregation
+- Political parties are groups or organizations that sek to place candidates in office under their label
+    - _Competitiive party systems_ seek to build electoral support
+
+### Elections
+- In democracies, elections are very important to policies
+    - Determine whether they survive
+    - The act of voting is one of the simplest and most frequently performed political acts
+    - By aggregating these votes, citizens can make collective decisions about their future leaders and public policies
+    - Elections are one of the few devices thorugh which diverse interests can be expressed equally and comprehensively
+
+### Competitive Parties in Govt
+- Ability to impliment policies is determined by the nature of the electoral outcome
+    - Winning control of legislature and executive
+    - Question of level of support: system produces majority outcome without a majority of voter support
+- Coalition Governments
+- The aggregation of interest at the executive ratherthan electoral level can have both costs and benefits
+- Minority interests ignored
+- Majority interests dominate
+
+### Cooperation and Conflict in Competitive Party Systems
+- Majoritarian Two Party System
+- Majority-coalition System
+- Multiparty System
+- Consensual Paty Systems
+- Conflictual Party Systems
+- Party systems that have both consentual and conflictual are _consociational_
+
+### Consociational
+- Force a coalition
+
+### Authoritarian
+- Specialized interest aggregation structure in which aggregation takes place within the ranks of the party or in interactions with business groups, landowners, and institutional groups in the bureacracy or military, citizens hand no opportunity to shape aggregation by choosing between party alternitaves
+
+### Authoritarian Party Systems
+- Exclusive Governing Party
+    - No interest aggregation outside of upper ranks
+- Inclusive Governing Party
+    - Govt listens to a few key leaders and groups
+    - If groups become threat to power, group will be repressed
+
+### Significance of interest aggregation
+- Important determinant shows what govt does for citizens
