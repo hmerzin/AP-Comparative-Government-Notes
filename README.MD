@@ -525,3 +525,155 @@ _this question is unanswered and causes a lot of tension in several states_
 
 ### Significance of interest aggregation
 - Important determinant shows what govt does for citizens
+
+## Government and Policymanking
+- Pivotal stage in the political process by which bills become law or edicts are issued
+
+### Public policy
+- To understand public policy, we must know how decisions are made
+    - Government agancies are at the core of policymaking
+    - Two way process
+        - Upward from society
+        - Downward from the government
+
+### Constitutions
+- Basic rules conceerning decision making, rights and the distrbution of authority
+- Prompts for constitutional formation
+    - The result of some kind of break: war, revolution, or rebellion
+    - New rules have to accommodate new internal and external rules
+- The UK does not have a constitution
+    - Instead has _customs_, _conventions_ and _ordinary_ statutes
+
+### Definitions
+- Rule of law
+    - Government cannot take action that has not been authorized by law and ctizens can be punished only for actions that violate an existing law
+- Decision Rules
+    - The basic rules governing how decisions are made, setting up the agencies and offices with specific powers assigning them territorial and functional jurisdiction, and the like
+- Egalitarian
+    - Each memver has the same voting power (though presiding offices have the power to break a vote)
+- Heirarchical
+    - In voting and decision making, everybody is supposed to defer to his or her superior in a pure heirarchy, only the vote of the person at the very top
+- Constitutional regimes
+    - systems in which the powers of various government units are definded and limited by a written constitution, statues and customs
+
+### Democracy and Authoritarianism
+- The basic decision rules of political systems - both democratic and authoritarian - differ along three important dimensions
+    - The seperation of powers between different branches of government
+    - The geographic distribution of authority between the centeral govt and lower levels such as states, provinces, or municipalities
+    - Limitations of governmental authority
+
+### Parliaments and the Confidence Relationship
+- The trust factor in a parliamentary system through which the prime miniister and his or her cabinet must at all times enjoy the confidence of the parliamentary majority
+- Whenever the parliamentary majority for whatever reason expresses its lack of confidence (through a no-confidence vote), the prime minister and all other cabinet members have to resign
+- on the other hand, the prime minister typically has the power to dissolve parliament and call new elections at any time (as of 2011, this is no longer the case in the UK)
+- The parliamentary majority's dismissal power and the prime minister's dissolution power, make the two branches mutually dependant
+- Induces agreements betweeen them by foring the executive branch to be acceptable to the parliamentary majority
+- Thus parliamentary democracies do not experience the form of divided government that is common under presidentialism, when the party that controls the presidency does not control the legislature
+
+### Democracy: Semi-Presidential
+- Not all democracies fit neatly inthe teh presidential or parliamentary category; some are semi-presidential, or hybrid parliamentary-presidential systems
+    - Type of democracy that incorporates aspects of both the presidential and parliamentary systems
+    - In sone, the president and the ligislature are seperateley elected (as in presidential systems), but the president has the power to dissolve the legislature (as in parliamentary systems)
+    - The cabinet may be appointed by the president (as in presidential systems), but subject to dismissal by the liglsature (as in parliamentary systems)
+
+### Government policymaking institutions
+- Ther eare three ypes of government institutions involved in oplicymaking are
+    - The legislative assembly
+    - The chief executive
+    - The higher levels of bureaucracy
+
+### How to Check the Top Policymakers
+- Controlling excesses of the top political leaders is challenging
+    - _Authoritarian systems_: problematic
+    - _Democracies_: procedures vary between types of systems
+        - _Parliamentary system_: removed virtually at any time
+        - _Presidential system_: impeachment
+            - Associated with constritutions having powerful presidencies with fixed terms of office
+        - Ultimate control of democratic order is periodic and competitive elections
+
+### Assemvlies
+- Almost all contemporary political systems have assemvlies
+    - More than 80% of the countries belonging to the UN
+    - Vary in structure - bicameralism is common
+    - Differ in their internal organization
+    - All have a committee structure
+
+### Assembly Functions
+- Deliverate, devate, and vote on policies that come before them
+- Typically also control public spending decisions
+- Some have important appointment powers
+- Some may serve as a court of appeals
+- Range in terms of their role as policymaking agencies: US - highly active role, National People's Congress of the People's Republic of China, rubberstamp
+- Assemblies should not only be viewed as legislative bodies
+
+### Political Executives
+- In modern states, the executive branch is by far the largest, the most complex, and typically most powerful
+- Chief executies
+    - Single or split
+    - Divided between effective power over policy
+
+### The cabinet
+- In many political systems the Cabinet is the most important collective decision-making body
+    - Very powerful in parliamentary systems
+- Selection
+    - Presidential systems: presidential prerogative with legislative approval, president can dismiss cabinet members, legislature severely limited in this area
+    - Parliamentary systems: formation depends on the result of parliamentary elections and on the composition of parliament
+        - Majority single-party cabinet vs coalition cabinet
+
+### Functions of Chief Executive
+- Typically the most important structure in policymaking
+    - The executive normally initiates new policies
+    - May have role in adoption
+    - Typically has veto powers
+    - Oversees policy implementation
+    - Recruitment function
+    - Conduct of executive
+    - Central role in communication, in explaniing and building support for new policies
+    - Improving performance in various sectors in society and economy
+
+### The bureaucracy
+- Large organizations in charge of implementing public policy
+    - Size has increased in many governments across the globe
+    - Civil service
+- Functions
+    - Almost alone in implementing and enforcing laws and regulations
+    - May articulate and aggregate interests
+    - Adjudication
+    - Involved in communication
+
+### Features of Bureaucracies
+- Decision making is based on fixed and official jurisdictions, rules and regulations
+- There are formal and specialized educaitonal or training requirements for each position
+- There is a _heirarchical command structure_
+    - A firmly ordered system of super - and subordination, in which information flows upward and decisions flow downward
+- Decisions are made on the basis of SOPs (standard operating procedures), which include extensive written records
+- Officials hold career posiitons, are appointed and promoted on the basis of merit, and have protection against political interference, notably in the form of _permanent job tenure_
+
+### Policymaking for Dummies
+- Recognize the problem (_interest articulation_)
+- Create a policy agenda (_interest aggregation_)
+- Formulate policy (_policymaking_)
+- Adopt the policy (_policymaking_ again)
+- Implement the policy (_outputs_)
+- Evaulate the policy (_look at outcomes_)
+- Potentially recognize _new problems, if so, start all over again_
+
+## Government and Policymaking
+
+### What is public policy
+- Governments engage in various forms of public policy
+- Many are directed at major challenges facing contemporary states
+
+### Public policies
+- May be summarized and compare according to outputs classified into four headings
+    - Distribution
+    - Extraction
+    - Regulation
+    - Symbolic Outputs
+
+### Distribution
+- Of money, goods, and srevices - to citizens, residents, and clients of the state
+    - Who gets what, when and how
+- Distributive policy profiles
+    - Across the world: health educaiton and national defense
+    - Developed countries: generally allocatte one half to two thirds on education, health and welfare
