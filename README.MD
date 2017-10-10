@@ -677,3 +677,148 @@ _this question is unanswered and causes a lot of tension in several states_
 - Distributive policy profiles
     - Across the world: health educaiton and national defense
     - Developed countries: generally allocatte one half to two thirds on education, health and welfare
+
+### Extractioin
+- Direct extraction of services
+    - Compulsory military service, jury duty, or compulsory labor imposed on those convieted of crime
+- Direct resource extraction
+    - Taxation
+        - Direct taxes (income), indirect taxes (sales)
+    - Progressive tax structure
+        - The relative tax rate of burden increases as and indivual's ability to pay increases
+    - Rebressive tax structure
+        - The relative tax rate or burden decreases as an individuals's ability to pay increases
+- The tax profiles of diff countreis vary both in their overall tax burdens an in their reliance on different types of taxes
+- Differ in how they collect their revenues
+
+### Regulation
+- How do we describe and explain tthe differences between political systesms in the area of regulateion?
+    - What aspsects of human behavior and interaction are regulated and to what degree?
+    - What social groups are regulated, with what procedural limitations on enforcemnt and what rights
+    - What sanctions are used to compel or induce citizens to comply
+- One aspect of regulation is particularly important politically: government control over political participation and communicaion
+    - Political rights and civil liberties
+
+### Community Building and Symbolic Policies
+- Intened to enhance people's national identity, civic pride, or trust in government
+- Enhance other areas of performance
+    - Make people pay their taxes more readily and honestly
+    - Comply with law more faithfully
+    - Accept sacrifice, danger, and hardship
+
+### Outcomes: Domestic Welfare
+- How do extractive, distributve, regulative, and symbolic policies affect the lives of citizens
+- Sometimes policies have unintended and undesirable consequences
+- To estimate the effectiveness of public policy, we have to examine actualy welfare outcomes as well as governmental policies and their implementation
+    - Health outcomes
+    - Education and information technologies
+
+### International Outputs and Outcomes
+- International activities: economic, diplomatic, military and informational
+- Most common outcome of the interaction among nations is _warfare_
+- Deadly costs of international warfare have gradually escalated
+
+### Political Goods and Values
+- If we are to compare and eveluate public policy in different political systems, we need to consider the political goods that motivate different policies
+- _System goods_ citizens are most fee and most able to act purposefully when their environment is stablee, transparent, and predictable
+- _pricess goods_ citizen participation and free political participation
+
+### Political Goods and Values
+- Ther eare two important criteria that most of us would agree that government policy should meet
+- Fairness
+- Promotion and preservation of freedom
+
+### Trade-Offfs and Opportunity Costs
+- Hard fact about political goosd: we cannot alwasys have all simultaneously
+- Political system often has to _trade off_ one value to obtain another
+- _Opportunity costs_ are what you lose in one area by committing your resources to a different good (the _next best alternative_ that you savrifice)
+- One of the importnatn tasks of social science is to discover the conditions under which positive and negative tradeoffs occur
+
+## Economics
+
+### THe Economic Problem
+- Unlimited Wants
+- Scarce Resources- land, labour, caiptal
+- Resource Use
+- Choices
+
+### 3 Questions of Economics
+- _What_ goods and services should be produced
+- _How_ should goods and services be produced
+- _Who_ should get the goods and servicess produced
+
+### Human Needs vs Wants
+- _Need_: A basic requirement for survival, such as food, clothing, and shelter
+- _Want_: Simple something we woud like to have but is not necessary for survival
+
+### Resources
+- Used to produce goods / services to satisfy human wants
+- Limited in supply
+- _scarce_: their quantities are insufficieent to satisfy
+
+### Types of resouces
+- Natural
+- Man mande
+- Human
+
+### Scarcity
+- Resources are _insuffient_ to satisfy all human wants
+- A relative concept: we want more than we have basic economic problem in human societies
+
+### Is sea water scarce
+- Is it fixed in supply
+- Do we want more sea water than we have
+- Sea water is _not scarce_
+
+### TINSTAAFL
+- There Is No Such Thing As A Free Lunch
+- Realistically, most things in life are not free, because someone has to pay for producin them in the first place
+
+### Competition
+- We compete for the use of limited resources
+- 3 ways of competition
+    - Price
+    - Non price
+
+### What is Economics
+- The study of how people try to satisfy seemingly unlimited and competing eants through the careful use of relatively scarce resources
+
+### Factors of Production
+- Land
+- Labour
+- Capital
+- Entrepreneurs
+
+### Positive / Empirical and Normal Statements
+- Positive Statements
+    - Capable of being verified or refuted by resorting to fact or further investigation
+- Nortmative
+    - Contains a value judgement which cannot be verified by resorting to investigation or research
+
+### Adam Smith
+- _Wealth of Nations_
+    - Defined as the sum of the goods
+- Division of lavor
+    - More productive if worker becomes more skilled at a single job
+- Invisible hand
+    - Competition and self-interest will somehow act as an invisible hand to guide resource to productive use
+
+### Economic Systems
+- An organized way for societies to provide for the people
+
+### Command Economies
+- Central authority makes deicions about what how and for whom to produce
+- Severely limits prvate property rights
+- Individual freedom is also limited
+- _Examples_ North Korea, Cuba, Soviet Union, China
+- _Advantages_ Can change directions drastiaclly, many health and public services are available to everyone at little or no cost
+- _Disadvantages_ Ignore basic wants and needs of consumer, gives incentives to fill their quotas instead of producing good product
+
+### Market Economy
+- Supply, demand and price help people make economic decisions
+- Characterized by a great deal of freedom
+    - People buying answers _what_
+    - Businesses free to find best production methods _how_
+
+### Mixed Economies
+- Provides assistance for some who might be left out
